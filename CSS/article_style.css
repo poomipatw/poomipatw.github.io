@@ -16,7 +16,9 @@
     margin-bottom: 10%;
 }
 
-.art_text {
+
+.art_main {
+    text-align: justify;
     display: grid;
     justify-content: center;
     place-items: center;
@@ -26,6 +28,12 @@
     width: 100%;
     height: 100%; 
     object-fit: contain;
+}
+
+.article_image2 {
+    width: 85%;
+    height: 85%; 
+    object-fit: cover;
 }
 
 .article_video {
