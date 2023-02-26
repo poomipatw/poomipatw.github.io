@@ -3,6 +3,7 @@
     display: grid;
     justify-content: center;
     place-items: center;
+    margin-top: 10%;
     margin-bottom: 3%;
 }
 
