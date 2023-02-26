@@ -317,12 +317,13 @@ footer {
 }
 
 .portfolio-heading{
+    margin-top: 10%;
     text-align: center;
 }
 
 .portfolio-title {
     margin-bottom: 1.5vw;
-    font-size: 4rem;
+    font-size: 3rem;
     font-weight: 800;
     color:#4770FF ;
 }
