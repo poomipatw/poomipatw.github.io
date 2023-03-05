@@ -69,4 +69,12 @@
     .article_text {
         font-size: 1.00rem;
     }
+
+    .thumbnail {
+        display: grid;
+        justify-content: center;
+        place-items: center;
+        margin-top: 20%;
+        margin-bottom: 3%;
+    }
 }
