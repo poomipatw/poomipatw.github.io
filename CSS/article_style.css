@@ -52,6 +52,14 @@
     font-size: 1.35rem;
 }
 
+@media (max-width: 900px) {
+
+    .article_text {
+        font-size: 1.15rem;
+    }
+}
+
+
 .article_showcase {
     margin-bottom: 10%;
 }
