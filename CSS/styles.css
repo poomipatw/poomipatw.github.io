@@ -336,8 +336,8 @@ footer {
 
 .cat-btn {
     object-fit: contain;
-    padding-left: 0.75vw;
-    padding-right: 0.75vw;
+    padding-left: 0.5vw;
+    padding-right: 0.5vw;
     margin-top: 2vh;
 }
 
