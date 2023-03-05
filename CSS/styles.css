@@ -333,6 +333,10 @@ footer {
     margin-bottom: 8vh;
 }
 
+.cat-btn {
+    margin-top: 2vh;
+}
+
 .port-cat-btn-main {
     padding:.75vw 2vw;
     margin: 0 0.25vw;
