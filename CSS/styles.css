@@ -334,10 +334,9 @@ footer {
 }
 
 .cat-btn {
-    object-fit: contain;
     padding-left: 4px;
     padding-right: 4px;
-    margin-top: 2vh;
+    margin-top: 1.20vh;
 }
 
 .port-cat-btn-main {
