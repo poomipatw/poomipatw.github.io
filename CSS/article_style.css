@@ -12,6 +12,11 @@
     width: 100%;
 }
 
+.article_thumbnail_2 {
+    height: 95%;
+    width: 95%;
+}
+
 .content {
     margin-top: 10%;
     margin-bottom: 10%;
@@ -49,4 +54,11 @@
 
 .article_showcase {
     margin-bottom: 10%;
+}
+
+.thankyou {
+    display: flex;
+    justify-content: center;
+    place-items: center;
+    margin-bottom: 15vh;
 }
