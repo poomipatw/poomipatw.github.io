@@ -333,7 +333,11 @@ footer {
     margin-bottom: 8vh;
 }
 
+
 .cat-btn {
+    object-fit: contain;
+    padding-left: 0.75vw;
+    padding-right: 0.75vw;
     margin-top: 2vh;
 }
 
