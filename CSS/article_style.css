@@ -23,6 +23,7 @@
     margin-bottom: 10%;
 }
 
+
 .album {
     padding-top: 4vh;
 }
@@ -72,6 +73,9 @@
 
 @media (max-width: 900px) {
 
+    .article_image{
+        margin-bottom: 2vh;
+    }
     .article_text {
         font-size: 1.00rem;
     }
@@ -80,7 +84,8 @@
         display: grid;
         justify-content: center;
         place-items: center;
-        margin-top: 20%;
+        margin-top: 30%;
         margin-bottom: 3%;
     }
 }
+
