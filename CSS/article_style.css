@@ -50,7 +50,9 @@
 .article_video {
     width: 95%;
     height: 95%; 
+    clip-path: inset(1px 1px);
     object-fit: contain;
+    
 }
 
 .article_text {

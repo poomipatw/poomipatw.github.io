@@ -84,6 +84,7 @@ main {
 }
 
 .big-heading {
+    margin-top: 20%;
     font-size: 3.5rem;
     font-weight: 900; 
     line-height: 1;  
