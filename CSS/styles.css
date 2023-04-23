@@ -85,6 +85,11 @@ main {
     margin-bottom: 30vh;
 }
 
+.landing-content {
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+
 .big-heading {
     margin-top: 10%;
     font-size: 3.5rem;
@@ -201,7 +206,7 @@ main {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-top: 3vh;
+    padding-top: 0vh;
     margin-bottom: 3vh;
 }
 
