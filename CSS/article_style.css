@@ -35,7 +35,6 @@
 }
 
 .art_main {
-    text-align: justify;
     display: grid;
     justify-content: center;
     place-items: center;
